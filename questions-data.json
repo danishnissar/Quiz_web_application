@@ -1,0 +1,161 @@
+{
+  "gk": [
+    {
+      "id": "gk1",
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correctAnswer": 2,
+      "category": "Geography"
+    },
+    {
+      "id": "gk2",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "id": "gk3",
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "id": "gk4",
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnswer": 3,
+      "category": "Geography"
+    },
+    {
+      "id": "gk5",
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Gold", "Oxygen", "Osmium", "Oganesson"],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "id": "gk6",
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1945", "1947", "1950"],
+      "correctAnswer": 1,
+      "category": "History"
+    },
+    {
+      "id": "gk7",
+      "question": "What is the currency of Japan?",
+      "options": ["Won", "Yen", "Yuan", "Ringgit"],
+      "correctAnswer": 1,
+      "category": "Economy"
+    },
+    {
+      "id": "gk8",
+      "question": "Which country is home to the kangaroo?",
+      "options": ["New Zealand", "South Africa", "Australia", "Brazil"],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "id": "gk9",
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correctAnswer": 1,
+      "category": "Literature"
+    },
+    {
+      "id": "gk10",
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Matterhorn"],
+      "correctAnswer": 2,
+      "category": "Geography"
+    },
+    {
+      "id": "gk11",
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "category": "Geography"
+    },
+    {
+      "id": "gk12",
+      "question": "Which is the largest planet in our solar system?",
+      "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+      "correctAnswer": 2,
+      "category": "Science"
+    }
+  ],
+  "aptitude": [
+    {
+      "id": "apt1",
+      "question": "If a train travels 360 km in 4 hours, what is its speed in km/h?",
+      "options": ["80 km/h", "90 km/h", "100 km/h", "120 km/h"],
+      "correctAnswer": 1,
+      "category": "Speed & Distance"
+    },
+    {
+      "id": "apt2",
+      "question": "What is 15% of 200?",
+      "options": ["25", "30", "35", "40"],
+      "correctAnswer": 1,
+      "category": "Percentage"
+    },
+    {
+      "id": "apt3",
+      "question": "If 6 workers can complete a job in 10 days, how many days will 12 workers take?",
+      "options": ["3 days", "5 days", "8 days", "20 days"],
+      "correctAnswer": 1,
+      "category": "Work & Time"
+    },
+    {
+      "id": "apt4",
+      "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+      "options": ["38", "40", "42", "44"],
+      "correctAnswer": 2,
+      "category": "Series"
+    },
+    {
+      "id": "apt5",
+      "question": "A shopkeeper buys a product for ₹500 and sells it for ₹600. What is the profit percentage?",
+      "options": ["15%", "20%", "25%", "30%"],
+      "correctAnswer": 1,
+      "category": "Profit & Loss"
+    },
+    {
+      "id": "apt6",
+      "question": "If APPLE = 50, and each letter has its alphabetical position value, what is the value of A+P+P+L+E?",
+      "options": ["44", "50", "56", "60"],
+      "correctAnswer": 1,
+      "category": "Coding"
+    },
+    {
+      "id": "apt7",
+      "question": "Two pipes A and B can fill a tank in 12 and 18 hours respectively. How long will it take to fill the tank if both are opened together?",
+      "options": ["6 hours", "7 hours", "7.2 hours", "8 hours"],
+      "correctAnswer": 2,
+      "category": "Pipes & Cistern"
+    },
+    {
+      "id": "apt8",
+      "question": "What is the simple interest on ₹5000 at 8% per annum for 3 years?",
+      "options": ["₹1000", "₹1200", "₹1500", "₹2000"],
+      "correctAnswer": 1,
+      "category": "Interest"
+    },
+    {
+      "id": "apt9",
+      "question": "If P is taller than Q, Q is taller than R, and R is taller than S, who is the shortest?",
+      "options": ["P", "Q", "R", "S"],
+      "correctAnswer": 3,
+      "category": "Logical Reasoning"
+    },
+    {
+      "id": "apt10",
+      "question": "The average of 5 numbers is 27. If one number is excluded, the average becomes 25. What is the excluded number?",
+      "options": ["30", "35", "37", "40"],
+      "correctAnswer": 1,
+      "category": "Average"
+    }
+  ],
+  "user": []
+}

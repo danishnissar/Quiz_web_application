@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "username": "student1",
+      "password": "pass123",
+      "role": "student",
+      "name": "Rahul Sharma",
+      "email": "rahul@example.com"
+    },
+    {
+      "id": "u2",
+      "username": "student2",
+      "password": "pass123",
+      "role": "student",
+      "name": "Priya Singh",
+      "email": "priya@example.com"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "t1",
+      "username": "teacher1",
+      "password": "teach123",
+      "role": "teacher",
+      "name": "Mr. Anil Kumar",
+      "email": "anil@school.com"
+    },
+    {
+      "id": "t2",
+      "username": "admin",
+      "password": "admin123",
+      "role": "teacher",
+      "name": "Admin",
+      "email": "admin@school.com"
+    }
+  ]
+}
